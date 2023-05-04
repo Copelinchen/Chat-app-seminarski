@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import "./App.css";
-import Messages from "./Messages";
+import Messages from "./Components/Messages";
 import Input from "./Components/Input";
 
 function randomName() {
